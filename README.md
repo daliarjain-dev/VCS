@@ -67,3 +67,44 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
 ## Contact
 
 For queries, contact the repository owner through GitHub.
+
+
+## Project Folder Structure
+
+The project is organized into separate folders for better management.
+
+```text
+VCS/
+│
+├── src/
+│   ├── student_manager.py
+│   └── README.md
+│
+├── tests/
+│   └── test_student_manager.py
+│
+├── docs/
+│   ├── index.md
+│   ├── usage.md
+│   └── faq.md
+│
+├── assets/
+│   └── README.md
+│
+├── README.md
+├── CODE_OF_CONDUCT.md
+└── CONTRIBUTING.md
+```
+
+## Folder Description
+
+| Folder | Purpose |
+|---|---|
+| src | Contains source code |
+| tests | Contains testing scripts |
+| docs | Contains project documentation |
+| assets | Stores images and resources |
+
+## Commit History
+
+This repository uses meaningful commit messages to track project changes.
