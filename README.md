@@ -60,8 +60,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
 
 - [x] Create GitHub repository
 - [x] Create README file
-- [ ] Complete Wiki documentation
-- [ ] Add Code of Conduct
+- [x] Complete Wiki documentation
+- [x] Add Code of Conduct
+- [x] Add Contributing Guidelines
 
 ## Contact
 
